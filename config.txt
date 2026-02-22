@@ -1,0 +1,3 @@
+appName=DesignPatterns
+version=1.0
+theme=dark
